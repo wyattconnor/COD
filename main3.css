@@ -1,0 +1,41 @@
+body {
+background-image: url("https://s.aolcdn.com/hss/storage/midas/19833b8ceed297610cd04240e14a1b5d/205235038/call+of+duty+zombies.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+
+h1 {
+	text-align: center;
+	margin: auto;
+	color: red;
+	font-size: 100px;
+	font-family: fantasy;
+}
+
+p {
+	text-align: center;
+	margin: auto;
+	color: red;
+	font-size: 40px;
+	font-family: fantasy;
+}
+
+ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	overflow: hidden;
+	font-size: 40px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #1a1aff;
+    text-align: center;
+    padding: 20px 20px;
+}
